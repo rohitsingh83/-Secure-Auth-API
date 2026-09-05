@@ -8,7 +8,7 @@ A production-ready RESTful authentication service built with **Node.js**, **Expr
 
 - **Live Base URL:** https://api-production-6a66.up.railway.app
 - **Health Check:** https://api-production-6a66.up.railway.app/health
-- **Public URL:**Anyone can open https://api-production-6a66.up.railway.app/ in any browser (mobile, tablet, desktop) without needing local files or file:/// paths.
+- **Public URL:** Anyone can open https://api-production-6a66.up.railway.app/ in any browser (mobile, tablet, desktop) without needing local files or file:/// paths.
 Frontend & Backend Unified: The modern AuthGuard UI is bundled directly with your Express 5 backend and MongoDB database on Railway.
 Live Interactive Features:
 🟢 Live Server Health Indicator (pings Railway backend in real time).

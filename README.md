@@ -8,6 +8,7 @@ A production-ready RESTful authentication service built with **Node.js**, **Expr
 
 - **Live Base URL:** https://api-production-6a66.up.railway.app
 - **Health Check:** https://api-production-6a66.up.railway.app/health
+- **Website link:** file:///C:/Users/Rohit%20Singh/OneDrive/Desktop/secure-auth-api/auth-website.html
 
 ---
 

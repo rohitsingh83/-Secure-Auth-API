@@ -8,7 +8,14 @@ A production-ready RESTful authentication service built with **Node.js**, **Expr
 
 - **Live Base URL:** https://api-production-6a66.up.railway.app
 - **Health Check:** https://api-production-6a66.up.railway.app/health
-- **Website link:** file:///C:/Users/Rohit%20Singh/OneDrive/Desktop/secure-auth-api/auth-website.html
+- **Public URL:**Anyone can open https://api-production-6a66.up.railway.app/ in any browser (mobile, tablet, desktop) without needing local files or file:/// paths.
+Frontend & Backend Unified: The modern AuthGuard UI is bundled directly with your Express 5 backend and MongoDB database on Railway.
+Live Interactive Features:
+🟢 Live Server Health Indicator (pings Railway backend in real time).
+📝 User Registration & Login Forms with live password strength meters.
+🛡️ Protected User Dashboard displaying authenticated profile information and JWT tokens.
+🔍 Live API Request/Response Inspector showing real-time network payloads and status codes (200 OK, 201 Created, 401 Unauthorized).
+🔄 Live Token Refresh and Logout actions.
 
 ---
 
